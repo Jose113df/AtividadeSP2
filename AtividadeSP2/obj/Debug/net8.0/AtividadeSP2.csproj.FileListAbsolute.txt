@@ -1,0 +1,14 @@
+C:\Users\thes\Desktop\Senai\AtividadeSP2\bin\Debug\net8.0\AtividadeSP2.exe
+C:\Users\thes\Desktop\Senai\AtividadeSP2\bin\Debug\net8.0\AtividadeSP2.deps.json
+C:\Users\thes\Desktop\Senai\AtividadeSP2\bin\Debug\net8.0\AtividadeSP2.runtimeconfig.json
+C:\Users\thes\Desktop\Senai\AtividadeSP2\bin\Debug\net8.0\AtividadeSP2.dll
+C:\Users\thes\Desktop\Senai\AtividadeSP2\bin\Debug\net8.0\AtividadeSP2.pdb
+C:\Users\thes\Desktop\Senai\AtividadeSP2\obj\Debug\net8.0\AtividadeSP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thes\Desktop\Senai\AtividadeSP2\obj\Debug\net8.0\AtividadeSP2.AssemblyInfoInputs.cache
+C:\Users\thes\Desktop\Senai\AtividadeSP2\obj\Debug\net8.0\AtividadeSP2.AssemblyInfo.cs
+C:\Users\thes\Desktop\Senai\AtividadeSP2\obj\Debug\net8.0\AtividadeSP2.csproj.CoreCompileInputs.cache
+C:\Users\thes\Desktop\Senai\AtividadeSP2\obj\Debug\net8.0\AtividadeSP2.dll
+C:\Users\thes\Desktop\Senai\AtividadeSP2\obj\Debug\net8.0\refint\AtividadeSP2.dll
+C:\Users\thes\Desktop\Senai\AtividadeSP2\obj\Debug\net8.0\AtividadeSP2.pdb
+C:\Users\thes\Desktop\Senai\AtividadeSP2\obj\Debug\net8.0\AtividadeSP2.genruntimeconfig.cache
+C:\Users\thes\Desktop\Senai\AtividadeSP2\obj\Debug\net8.0\ref\AtividadeSP2.dll
